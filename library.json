@@ -1,0 +1,22 @@
+{
+  "name": "pystring",
+  "version": "1.1.4",
+  "description": "a fork of imageworks/pystring at 1.1.4 for use on platform.io",
+  "keywords": "strings, python",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/alder-codes/pystring.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Sony Pictures Imageworks",
+      "url": "https://www.imageworks.com/technology/opensource/"
+    }
+  ],
+  "license": "BSD-3-Clause license",
+  "homepage": "https://opensource.org/license/bsd-3-clause",
+  "frameworks": "*",
+  "platforms": "*"
+}
