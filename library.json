@@ -15,7 +15,7 @@
       "url": "https://www.imageworks.com/technology/opensource/"
     }
   ],
-  "license": "BSD-3-Clause license",
+  "license": "BSD-3-Clause",
   "homepage": "https://opensource.org/license/bsd-3-clause",
   "frameworks": "*",
   "platforms": "*"
